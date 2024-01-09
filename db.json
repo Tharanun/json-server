@@ -1,0 +1,57 @@
+{
+    "todos": [
+      {
+        "todo": "HTML",
+        "completed": true,
+        "id": 2
+      },
+      {
+        "todo": "CSS",
+        "completed": true,
+        "id": 3
+      },
+      {
+        "todo": "JavaSctipt",
+        "completed": true,
+        "id": 4
+      },
+      {
+        "todo": "React",
+        "completed": true,
+        "id": 5
+      },
+      {
+        "todo": "Algorithm",
+        "completed": false,
+        "id": 10
+      },
+      {
+        "todo": "Database design",
+        "completed": false,
+        "id": 11
+      },
+      {
+        "todo": "MySQL",
+        "completed": false,
+        "id": 12
+      },
+      {
+        "todo": "MongoDB",
+        "completed": false,
+        "id": 13
+      },
+      {
+        "todo": "Node.JS",
+        "completed": false,
+        "id": 14
+      }
+    ],
+    "users": [
+      {
+        "name": "andy"
+      },
+      {
+        "name": "bobby"
+      }
+    ]
+  }
